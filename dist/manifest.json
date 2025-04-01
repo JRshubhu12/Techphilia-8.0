@@ -1,0 +1,23 @@
+{
+    "name": "Techphilia 8.0",
+    "short_name": "Techphilia",
+    "description": "Annual Technical Festival of Amity University Patna.  This website developed by Ayush, Aman Verma and Shubham Choudhary.",
+    "start_url": "https://aiitpevent.in/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4f46e5",
+    "icons": [
+      {
+        "src": "/favicon.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      },
+      {
+        "src": "/logo512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+      }
+    ]
+  }
+  
+  
